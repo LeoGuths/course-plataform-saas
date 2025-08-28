@@ -1,0 +1,81 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+/dist
+
+# vite specific
+.vite/
+vite.config.*.timestamp-*
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# netlify
+.netlify
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# WebStorm/IntelliJ files
+*.iml
+.idea/
+aws.xml
+encodings.xml
+modules.xml
+Project_Default.xml
+vcs.xml
+
+# VSCode
+.vscode/*
+!.vscode/extensions.json
+
+# Husky hooks (gerados automaticamente)
+.husky/_/
+.husky/commit-msg
+.husky/pre-commit
+
+# Cache files
+.cache/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
