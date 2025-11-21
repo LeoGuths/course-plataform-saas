@@ -37,8 +37,6 @@ export default async function CoursePage({ params }: CoursePageProps) {
 
   if (firstUncompletedLesson) lessonToRedirect = firstUncompletedLesson;
 
-  console.log('lessonToRedirect', lessonToRedirect);
-
   if (lessonToRedirect) {
     redirect(
       `/courses/${slug}/${lessonToRedirect.moduleId}/lesson/${lessonToRedirect.id}`

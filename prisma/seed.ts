@@ -36,7 +36,6 @@ async function main() {
       },
     });
 
-    console.log(`Course created: ${createdCourse.title}`);
   }
 }
 
