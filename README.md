@@ -12,6 +12,14 @@
 
 ---
 
+## 🌐 Demo ao Vivo
+
+**🔗 [Ver Plataforma em Produção](https://guths-course-plataform.vercel.app/)**
+
+Experimente todas as funcionalidades da plataforma em um ambiente real de produção.
+
+---
+
 ## 🚀 Visão Geral
 
 Uma plataforma completa de **gestão e venda de cursos online**, pronta para produção.  
