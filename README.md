@@ -14,7 +14,7 @@
 
 ## 🌐 Demo ao Vivo
 
-**🔗 [Ver Plataforma em Produção](https://guths-course-plataform.vercel.app/)**
+**🔗 [Ver Plataforma em Produção](https://guths-course-platform.vercel.app/)**
 
 Experimente todas as funcionalidades da plataforma em um ambiente real de produção.
 
